@@ -1,2 +1,2 @@
 # landing-page
-Project #@ of The Odin Project
+Project #2 of The Odin Project
