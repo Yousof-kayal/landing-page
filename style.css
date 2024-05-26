@@ -127,3 +127,30 @@ a:hover{
 .info img{
     align-self: center;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    min-height: 350px;
+    flex-basis: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.quote .container{
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text{
+    font-size: 28px;
+    font-style: italic;
+    color: #1F2937;
+    max-width: 800px;
+}
+
+.quote-sign{
+    font-weight: 600;
+    align-self: flex-end;
+}
